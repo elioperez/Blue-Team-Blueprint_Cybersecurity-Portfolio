@@ -35,8 +35,6 @@ The exercise connects offensive reconnaissance with endpoint telemetry, PowerShe
 - Visual Studio Code
 
 ## Security Workflow
-
-```text
 Reconnaissance
       ↓
 Telemetry Collection
@@ -48,3 +46,7 @@ Investigation
 Containment
       ↓
 Validation
+
+## Author
+Elio Perez Calzadilla
+Junior Cybersecurity / Linux Administration / Infrastructure Automation
